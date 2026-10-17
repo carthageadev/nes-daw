@@ -2,9 +2,6 @@
 
 Browser-based DAW for arranging, generating, importing, and exporting MIDI.
 
-- Live app: https://daw.ashref.tn
-- Optional AI generation with `GEMINI_API_KEY`
-
 ## Development
 
 1. `bun install`
